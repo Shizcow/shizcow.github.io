@@ -46,18 +46,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Programming
+          description: C, C++, Rust
+          icon: code
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Compilers
+          description: MSVC Backend/Linker, LLVM Backend
+          icon: file-code
           icon_pack: fas
+        - name: Emacs
+          description: Enthusiast
+          icon: emacs
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
