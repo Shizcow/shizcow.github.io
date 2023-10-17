@@ -22,7 +22,7 @@ organizations:
     url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include compilers, novel computer architectures, and reconfigurable compiting.
+bio: My research interests include compilers, novel computer architectures, and reconfigurable computing.
 
 # Interests to show in About widget
 interests:
@@ -68,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-Devin Pohl is a first-year PhD student studying computer science at Georgia Tech, working in the [CRNCH Lab](https://crnch.gatech.edu/). His research insterests include compilers, novel computer architectures, and reconfigurable compiting. 
+Devin Pohl is a first-year PhD student studying computer science at Georgia Tech, working in the [CRNCH Lab](https://crnch.gatech.edu/). His research interests include compilers, novel computer architectures, and reconfigurable computing. 
 {style="text-align: justify;"}
