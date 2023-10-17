@@ -78,7 +78,7 @@ sections:
           date_start: '2022-05-01'
           date_end: '2023-08-01'
           description: |2-
-              Contributed to include:
+              Contributed to:
 
               * MSVC Backend and Linker
               * Machine Dependent Codegen
