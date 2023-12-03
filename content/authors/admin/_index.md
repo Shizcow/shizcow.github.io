@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Georgia Institute of Technology
-      year: Expected 2029
+      year: Aug 2023 - Present
     - course: BSc in Computer Engineering
       institution: Colorado State University
       year: 2022
@@ -68,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-Devin Pohl is a first-year PhD student studying computer science at Georgia Tech, working in the [CRNCH Lab](https://crnch.gatech.edu/). His research interests include compilers, novel computer architectures, and reconfigurable computing. 
+Devin Pohl is a first-year PhD student studying computer science at Georgia Tech, working in the [Habanero Lab](https://habanero.cc.gatech.edu/). His research interests include compilers, novel computer architectures, and reconfigurable computing. 
 {style="text-align: justify;"}
