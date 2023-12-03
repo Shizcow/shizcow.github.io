@@ -83,6 +83,7 @@ sections:
               * MSVC Backend and Linker
               * Machine Dependent Codegen
               * ARM64 Native Toolchain
+              * Toolchain Determinism Validation
         - title: Platform Engineering Intern
           company: Hewlett Packard Enterprise
           company_url: ''
