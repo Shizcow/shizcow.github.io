@@ -51,7 +51,7 @@ sections:
           icon: code
           icon_pack: fas
         - name: Compilers
-          description: MSVC Backend/Linker, LLVM Backend
+          description: MSVC Backend/Linker, LLVM Backend, Syndra (Research), SNN-RCA Mapping (Research)
           icon: file-code
           icon_pack: fas
         - name: Emacs
@@ -70,6 +70,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: Oak Ridge National Laboratory
+          company_url: ''
+          company_logo: org-ornl
+          location: 
+          date_start: '2024-05-01'
+          date_end: '2024-08-01'
+          description: |2-
+              Contributed to:
+
+              * Mapping spiking neural networks to ReRam crossbar architectures using integer linear programming
+              * Proving that heterogeneous architectures substantially improve area and networking metrics
+              * Supporting optimizations for: area, inter-chiplet routing counts, profile-guided packet optimization
+              * Implementing multi-crossbar support to processor simulator
         - title: Compiler Engineer
           company: Microsoft
           company_url: ''
