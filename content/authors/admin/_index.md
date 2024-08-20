@@ -28,6 +28,9 @@ bio: My research interests include compilers, novel computer architectures, and 
 interests:
   - Compilers
   - Novel Computer Architectures
+  - Extreme Heterogeneity
+  - Hardware-Software Co-Design
+  - Constraint Programming
   - Reconfigurable Computing
 
 # Education to show in About widget
@@ -68,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Devin Pohl is a first-year PhD student studying computer science at Georgia Tech, working in the [Habanero Lab](https://habanero.cc.gatech.edu/). His research interests include compilers, novel computer architectures, and reconfigurable computing. 
+Devin Pohl is a second-year PhD student studying computer science at Georgia Tech, working in the [Habanero Lab](https://habanero.cc.gatech.edu/). His research interests include extreme heterogeneity, software-hardware co-design, and constraint programming. 
 {style="text-align: justify;"}

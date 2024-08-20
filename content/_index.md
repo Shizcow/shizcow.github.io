@@ -80,9 +80,9 @@ sections:
           description: |2-
               Contributed to:
 
-              * Mapping spiking neural networks to ReRam crossbar architectures using integer linear programming
-              * Proving that heterogeneous architectures substantially improve area and networking metrics
-              * Supporting optimizations for: area, inter-chiplet routing counts, profile-guided packet optimization
+              * Mapping spiking neural networks to ReRam crossbar architectures using ILP
+              * Proving heterogeneous architectures substantially improve area and networking metrics
+              * Supporting optimizations for: area, inter-chiplet routing, profile-guided networking
               * Implementing multi-crossbar support to processor simulator
         - title: Compiler Engineer
           company: Microsoft
